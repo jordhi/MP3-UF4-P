@@ -1,0 +1,7 @@
+classe
+ - vehicle
+   - Cotxe
+   - Moto
+   - Camió
+   - Bicicleta
+   - PatinetElectric
